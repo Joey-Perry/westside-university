@@ -1,0 +1,11 @@
+.back-btn {
+    border: 1px solid black;
+    padding: 5px;
+    font-weight: bold;
+}
+
+.back-btn:hover {
+    cursor: pointer;
+    background-color: #143A56;
+    color: white;
+}
